@@ -28,6 +28,5 @@ the data.
 See <https://docs.moodle.org> for details of Moodle's many features.
 
 <a href="https://scan.coverity.com/projects/moodle">
-  <img alt="Coverity Scan Build Status"
-       src="https://scan.coverity.com/projects/11859/badge.svg"/>
+  <img alt="Coverity Scan Build Status" src="https://img.shields.io/coverity/scan/11859.svg"/>
 </a>
